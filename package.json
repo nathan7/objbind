@@ -1,0 +1,17 @@
+{
+  "name": "objbind",
+  "version": "1.0.0",
+  "description": "bind all the functions on an object",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/objbind.git"
+  },
+  "keywords": [
+    "bind",
+    "utility"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "BSD",
+  "readmeFilename": "Readme.md"
+}

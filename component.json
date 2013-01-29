@@ -1,0 +1,16 @@
+{
+  "name": "objbind",
+  "repo": "nathan7/objbind",
+  "description": "bind all the functions on an object",
+  "version": "1.0.0",
+  "keywords": [
+    "bind",
+    "utility"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
