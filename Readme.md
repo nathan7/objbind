@@ -18,7 +18,8 @@ output:
 
 objbind(obj, args...)
 ---------------------
-newObj = Object.create(obj)
-for each enumerable function property of obj, assign fn.bind(obj, args...) to the same key on newObj
-return newObj
-``
+
+ * newObj = Object.create(obj)
+ * for each enumerable function property of obj, assign fn.bind(obj, args...) to the same key on newObj
+ * return newObj
+
